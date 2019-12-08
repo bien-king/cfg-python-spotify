@@ -1,7 +1,7 @@
 # cfg-python-spotify <br>
 <br>
 1 Generate a random number between 1 and 151 to use as the Harry Potter ID number- bien<br>
-2 Using the  Harry Potter API get a Pokemon based on its ID number- bien<br>
+2 Using the  Harry Potter API get a  Harry Potter based on its ID number- bien<br>
 3 Create a dictionary that contains the returned  Harry Potter's name, id, height and weight - natasha<br>
 4 Get a random Pokemon for the player and another for their opponent- natasha<br>
 <br>
